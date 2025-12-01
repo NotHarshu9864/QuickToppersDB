@@ -3,7 +3,7 @@
   "chapters": [
     {
       "id": "ch1",
-      "title": "Real Numbers",
+      "title": "Real Numbers – Part 1",
       "videos": [
         {
           "id": "lec1",
@@ -15,7 +15,7 @@
     },
     {
       "id": "ch2",
-      "title": "Polynomials",
+      "title": "Real Numbers – Part 2",
       "videos": [
         {
           "id": "lec1",
@@ -27,7 +27,7 @@
     },
     {
       "id": "ch3",
-      "title": "Chapter - 3",
+      "title": "Real Numbers – Part 3",
       "videos": [
         {
           "id": "lec1",
@@ -36,138 +36,6 @@
           "notes": "https://example.com/notes1.pdf"
         }
       ]
-    },
-    {
-      "id": "ch4",
-      "title": "Ch - 4",
-      "videos": [
-        {
-          "id": "lec1",
-          "title": "Lecture 1 – Introduction",
-          "play": "https://example.com/lecture1.m3u8",
-          "notes": "https://example.com/notes1.pdf"
-        }
-      ]
-    },
-    {
-      "id": "ch5",
-      "title": "Ch - 5",
-      "videos": [
-        {
-          "id": "lec1",
-          "title": "Lecture 1 – Introduction",
-          "play": "https://example.com/lecture1.m3u8",
-          "notes": "https://example.com/notes1.pdf"
-        }
-      ]
-    },
-    {
-      "id": "ch6",
-      "title": "Ch - 6",
-      "videos": [
-        {
-          "id": "lec1",
-          "title": "Lecture 1 – Introduction",
-          "play": "https://example.com/lecture1.m3u8",
-          "notes": "https://example.com/notes1.pdf"
-        }
-      ]
-    },
-    {
-      "id": "ch7",
-      "title": "Ch - 7",
-      "videos": [
-        {
-          "id": "lec1",
-          "title": "Lecture 1 – Introduction",
-          "play": "https://example.com/lecture1.m3u8",
-          "notes": "https://example.com/notes1.pdf"
-        }
-      ]
-    },
-    {
-      "id": "ch8",
-      "title": "Ch - 8",
-      "videos": [
-        {
-          "id": "lec1",
-          "title": "Lecture 1 – Introduction",
-          "play": "https://example.com/lecture1.m3u8",
-          "notes": "https://example.com/notes1.pdf"
-        }
-      ]
-    },
-    {
-      "id": "ch9",
-      "title": "ch - 9",
-      "videos": [
-        {
-          "id": "lec1",
-          "title": "Lecture 1 – Introduction",
-          "play": "https://example.com/lecture1.m3u8",
-          "notes": "https://example.com/notes1.pdf"
-        }
-      ]
-    },
-    {
-      "id": "ch10",
-      "title": "ch - 10",
-      "videos": [
-        {
-          "id": "lec1",
-          "title": "Lecture 1 – Introduction",
-          "play": "https://example.com/lecture1.m3u8",
-          "notes": "https://example.com/notes1.pdf"
-        }
-      ]
-    },
-    {
-      "id": "ch11",
-      "title": "Res",
-      "videos": [
-        {
-          "id": "lec1",
-          "title": "Lecture 1 – Introduction",
-          "play": "https://example.com/lecture1.m3u8",
-          "notes": "https://example.com/notes1.pdf"
-        }
-      ]
-    },
-    {
-      "id": "ch12",
-      "title": "Real Nurs",
-      "videos": [
-        {
-          "id": "lec1",
-          "title": "Lecture 1 – Introduction",
-          "play": "https://example.com/lecture1.m3u8",
-          "notes": "https://example.com/notes1.pdf"
-        }
-      ]
-    },
-    {
-      "id": "ch13",
-      "title": "Real s",
-      "videos": [
-        {
-          "id": "lec1",
-          "title": "Lecture 1 – Introduction",
-          "play": "https://example.com/lecture1.m3u8",
-          "notes": "https://example.com/notes1.pdf"
-        }
-      ]
-    },
-    {
-      "id": "ch14",
-      "title": "Real Ners",
-      "videos": [
-        {
-          "id": "lec1",
-          "title": "Lecture 1 – Introduction",
-          "play": "https://example.com/lecture1.m3u8",
-          "notes": "https://example.com/notes1.pdf"
-        }
-      ]
-    } // CHAPTER ENDS
+    }
   ]
 }
