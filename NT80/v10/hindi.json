@@ -12,6 +12,18 @@
           "notes": "https://example.com/notes1.pdf"
         }
       ]
+    },
+  {
+      "id": "ch2",
+      "title": "Testing ",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1 – Introduction",
+          "play": "https://example.com/lecture1.m3u8",
+          "notes": "https://example.com/notes1.pdf"
+        }
+      ]
     }
   ]
 }
